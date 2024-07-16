@@ -1,0 +1,71 @@
+
+
+
+
+/* .pages{
+    margin: 0 10px;
+    cursor: pointer;
+}
+.ListContainer{
+    padding: 2rem;
+}
+.inputField{
+   font-size: 20px;
+   border: 1px solid grey;
+   padding: 5px;
+   border-radius: 5px;
+} */
+.btn{
+ border: none;
+    color: white;
+    background-color: rgb(172, 172, 255);
+    padding: 0.7rem;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.backgroundImag{
+    background-image: url('../../assets/searchAvatar.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80%;
+
+}
+.nobg{
+    background-image: none;
+}
+/* .listform{
+    display: flex;
+    gap:10px;
+} */
+table{
+    font-size: 20px;
+    align-items: center;
+}
+
+.dark{
+    background-color: black;
+}
+.customtextnumber{
+     border: 2px solid rgb(20, 94, 255);
+     border-radius: 10px;
+     text-align: center;
+}
+
+.notfound{
+   width: 65vh;
+   margin: auto;
+   
+
+}
+
+.customFilterClass{
+    border: 2px solid rgb(20, 94, 255);
+}
+.highlight {
+    background-color:yellow;
+
+    font-weight: bold;
+  }
+  
